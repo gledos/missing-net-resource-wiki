@@ -12,7 +12,7 @@
 
 截至关闭前，网站注册都需要邀请码。
 
-## Google Play
+## Google Play 中的描述
 
 此应用仅限 番組Collection 用户使用。若您没有 番組Collection 账户，请不要下载此应用。  
 
