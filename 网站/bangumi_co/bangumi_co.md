@@ -31,7 +31,7 @@
 
 + [有人知道番組Collection的邀请码怎么获得吗 - bangumi](https://web.archive.org/web/20190916164834/http://bgm.tv/group/topic/351076)
 
-## 软件图片
+## 网站截图
 
 ![](Pasted%20image%2020210511222543.png)
 ![](Pasted%20image%2020210511222607.png)
